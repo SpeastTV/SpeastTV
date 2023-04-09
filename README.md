@@ -1,7 +1,7 @@
 - 👋 Hi, Ich bin @SpeastTV
 - 📍 Ich komme aus Deutschland(Germany)
-- 🌱 Ich lerne zurzeit Java und C#
-- ⚡ MegaBuild.de - Admin
+- 🌱 Ich lerne zurzeit HTML, CSS und Javascript
+- ⚡ MegaBuild.de - Adminstration
 - 📫 Du kannst mich bei dem Discord SV von MegaBuild.de finden.
 
 <!---
